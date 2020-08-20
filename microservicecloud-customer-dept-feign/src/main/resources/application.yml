@@ -1,0 +1,25 @@
+server:
+  port: 9002
+
+
+feign:
+  hystrix:
+    enabled: true
+
+
+spring:
+  application:
+    name: consumer-fenig
+
+#注册配置
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true     #访问路径可以显示IP地址
+    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
+    status-page-url: http://${spring.cloud.client.ip-address}:${server.port}/swagger-ui.html
+  client:
+    register-with-eureka: true
+    service-url:
+      defaultZone:  http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+#      ,http://eureka7003.com:7003/eureka/
