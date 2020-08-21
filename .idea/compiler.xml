@@ -13,7 +13,9 @@
         <module name="microservicecloud-provider-dept-2" />
         <module name="microservicecloud-eureka-7003" />
         <module name="microservicecloud-customer-dept-feign" />
+        <module name="microservicecloud-conusmer-hystrix-dashboard" />
         <module name="microservicecloud-eureka-7002" />
+        <module name="microservicecloud-zull-gateway-9527" />
         <module name="microservicecloud-eureka-7001" />
         <module name="microservicecloud-provider-dept-hystrix" />
       </profile>
@@ -21,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="microservicecloud" target="1.8" />
       <module name="microservicecloud-api" target="1.8" />
+      <module name="microservicecloud-conusmer-hystrix-dashboard" target="1.8" />
       <module name="microservicecloud-customer-dept" target="1.8" />
       <module name="microservicecloud-customer-dept-feign" target="1.8" />
       <module name="microservicecloud-eureka-7001" target="1.8" />
@@ -29,6 +32,7 @@
       <module name="microservicecloud-provider-dept" target="1.8" />
       <module name="microservicecloud-provider-dept-2" target="1.8" />
       <module name="microservicecloud-provider-dept-hystrix" target="1.8" />
+      <module name="microservicecloud-zull-gateway-9527" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

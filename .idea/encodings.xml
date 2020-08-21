@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/microservicecloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-conusmer-hystrix-dashboard/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept-feign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-customer-dept/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/java" charset="UTF-8" />
@@ -10,5 +11,6 @@
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud-provider-dept/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-zull-gateway-9527/src/main/java" charset="UTF-8" />
   </component>
 </project>

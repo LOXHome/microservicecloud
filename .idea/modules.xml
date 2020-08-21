@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/microservicecloud.iml" filepath="$PROJECT_DIR$/.idea/microservicecloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" filepath="$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-conusmer-hystrix-dashboard/microservicecloud-conusmer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservicecloud-conusmer-hystrix-dashboard/microservicecloud-conusmer-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-customer-dept/microservicecloud-customer-dept.iml" filepath="$PROJECT_DIR$/microservicecloud-customer-dept/microservicecloud-customer-dept.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-customer-dept-feign/microservicecloud-customer-dept-feign.iml" filepath="$PROJECT_DIR$/microservicecloud-customer-dept-feign/microservicecloud-customer-dept-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-eureka-7001/microservicecloud-eureka-7001.iml" filepath="$PROJECT_DIR$/microservicecloud-eureka-7001/microservicecloud-eureka-7001.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept/microservicecloud-provider-dept.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept/microservicecloud-provider-dept.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-2/microservicecloud-provider-dept-2.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-2/microservicecloud-provider-dept-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix/microservicecloud-provider-dept-hystrix.iml" filepath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix/microservicecloud-provider-dept-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-zull-gateway-9527/microservicecloud-zull-gateway-9527.iml" filepath="$PROJECT_DIR$/microservicecloud-zull-gateway-9527/microservicecloud-zull-gateway-9527.iml" />
     </modules>
   </component>
 </project>
